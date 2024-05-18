@@ -1,6 +1,7 @@
 ## Next 13 Demo
 
 Build a basic note-taking app with Next.js 13 and Pocketbase. 
+[Turtorial](https://www.youtube.com/watch?v=__mSgDEOyv8)
 
 ### Setup
 
